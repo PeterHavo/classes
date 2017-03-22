@@ -1,0 +1,1 @@
+moje classes JS6 
